@@ -15,6 +15,8 @@ REM    Add supervisor uid which pulls from reports to field in NBBPOSN.
 REM
 REM 4. MW 2020/01/21
 REM    Add all adjuncts with an active contract.
+REM
+REM 5. MW 2020/05/20
 REM AUDIT TRAIL END
 REM
 PROMPT * BEGIN SCRIPT...
