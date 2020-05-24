@@ -18,6 +18,8 @@ REM    Add all adjuncts with an active contract.
 REM
 REM 5. MW 2020/05/20
 REM    BUG FIX
+REM 6. MW 2020/05/24
+REM    PROD Change
 REM AUDIT TRAIL END
 REM
 PROMPT * BEGIN SCRIPT...
